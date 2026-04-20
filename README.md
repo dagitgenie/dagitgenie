@@ -1,4 +1,4 @@
-# 👋 Hi, I'm ErE
+# 👋 Hi, I'm Warren
 
 ## 💻 About Me
 - 🚀 Computer Science learner
