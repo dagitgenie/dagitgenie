@@ -6,6 +6,12 @@
 * 🌱 Currently learning JavaScript, HTML, CSS, and modern web development
 * 🧠 Interested in building interactive and user-friendly web apps
 * 🎯 Goal: Become a strong full-stack developer
+
+## 🧑‍💻 Languages Learned
+
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 <!--
 **dagitgenie/dagitgenie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
