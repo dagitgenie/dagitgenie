@@ -36,12 +36,6 @@
 
 ---
 
-## 📫 Contact Me
-- GitHub: https://github.com/YOUR_USERNAME  
-- Email: your-email@example.com (optional)
-
----
-
 ## ⚡ Fun Fact
 I learn by breaking things and fixing them 😄
 <!--
