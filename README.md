@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Warren
 
 ## 💻 About Me
-- 🚀 Computer Science learner
+- 🚀 Computer programming learner
 - 🌱 Currently learning **HTML, CSS, JavaScript**
 - 🧠 Interested in web development and building real-world projects
 - 🎯 Goal: Become a full-stack developer
@@ -31,8 +31,13 @@
 
 ## 📂 Featured Projects
 - 🔗 Project 1 – add link here
+
+
 - 🔗 Project 2 – add link here
+
+
 - 🔗 Project 3 – add link here
+
 
 ---
 
